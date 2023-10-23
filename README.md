@@ -3,7 +3,7 @@
 ## Outcome 
 ![Overview](./src/helper/overview.png)
 
-ToDo app created/built with using react/redux.
+ToDo app created/built with using react/redux-toolkit.
 
 ## Features
 
